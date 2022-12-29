@@ -9,4 +9,7 @@ The AIM Global and Wright University anticipates that the standard documented in
 
 
 
-![](https://www.aim-na.org/uploads/5/9/7/2/59729915/hackathon-winter-2023-2_orig.jpg)
+
+<img src="https://https://www.aim-na.org/uploads/5/9/7/2/59729915/hackathon-winter-2023-2_orig.jpg" 
+     width="200" 
+     height="68" />
